@@ -4,22 +4,22 @@ This project is a global prototype that, once cloned, lets you immediately get t
 
 It provides the following out of the box:
     
-    - Bootstrap
-    - jQuery
-    - LESS
-    - Jekyll architecture
-    - LiveReload
-    - Gulpfile
-    - Package.json
-    - Bower.json
-    - Gitignore
+- Bootstrap
+- jQuery
+- LESS
+- Jekyll architecture
+- LiveReload
+- Gulpfile
+- Package.json
+- Bower.json
+- Gitignore
 
 
 # Dependencies
 
-    - Gulp (`npm install -g gulp`)
-    - Bower (`npm install -g bower`)
-    - Jekyll (`gem install jekyll`)
+- Gulp (`npm install -g gulp`)
+- Bower (`npm install -g bower`)
+- Jekyll (`gem install jekyll`)
 
 # Instructions
 
