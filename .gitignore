@@ -1,6 +1,5 @@
 node_modules/
 bower_components/
-js/app.js
-js/components.js
+js/*.js
 _site/
 css/
