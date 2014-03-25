@@ -25,14 +25,7 @@ It provides the following out of the box:
 
 To build the site:
 
-```bash
-
-npm install
-bower install
-gulp
-jekyll build
-
-```
+`sh install.sh`
 
 ---
 
