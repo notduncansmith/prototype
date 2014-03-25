@@ -1,8 +1,8 @@
 {
-  "name": "bogart-pages",
+  "name": "New Thing",
   "version": "0.0.0",
   "description": "",
-  "main": "gulpfile.js",
+  "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
