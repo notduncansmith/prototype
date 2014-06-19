@@ -1,3 +1,5 @@
 npm install
 bower install
-gulp build
+gulp buildStyles
+gulp buildScripts
+gulp buildSite
